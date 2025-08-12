@@ -1,4 +1,4 @@
-# Material Design in Practice.
+# Material Design in Practice - NO LONGER MAINTAINED.
 
 ## Purpose
 - Intended to be simple and practical - A project to demonstrate the usage of color palette, typography and shapes as per the [material design guidelines](https://material.io/design/introduction "material design guidelines"). Also shares a method to properly scale text sizes.
